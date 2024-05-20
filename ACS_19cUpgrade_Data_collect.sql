@@ -1,8 +1,6 @@
 ------Script is to collect the information from the database which will be used to perform the impact analysis
 ------Database Upgrade Impact Analysis Report
 ------Version Control
-------Version 1.0 Manish Madhukar, Guruprasad Ramamurthy And Venu Venkataramana
-------Version 2.0 Manish Madhukar And Varun Selot
 ------Version 3.0 Naved Afroz
 ------Include server hostname, database name, date and time in name of spool file
 set feedback off
